@@ -1,0 +1,1 @@
+import{a as e,e as t,o as s,b as n}from"./entry.a60c47f3.js";const o={class:"mt-5"},c=n('<div id="app" class="container-fluid py-5"><h1 class="text-center">House</h1><h1 class="text-center">in the Trees</h1><hr class="w-50 mx-auto my-4"><p class="text-center">Coming soon!</p></div>',1),a=[c],l=e({__name:"index",setup(_){return(i,r)=>(s(),t("div",o,a))}});export{l as default};
